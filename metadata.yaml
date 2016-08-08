@@ -1,0 +1,31 @@
+_repo: O.-Henry-Memorial-Award-Prize-Stories-of-1919_12094
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Williams, Blanche Colton
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '35248'
+    url: http://www.gutenberg.org/2009/agents/35248
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12094'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American -- Periodicals'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: England to America. By Montague -- "For they know not what they do."
+  By Steele -- They grind exceeding small. By Williams -- On strike. By Terhune. --
+  The elephant remembers. By Marshall -- Turkey red. By Wood -- Five thousand dollars
+  reward. By Post -- The blood of the dragon. By Springer -- "Humoresque." By Hurst
+  -- The lubbeny kiss. By Rice. -- The trial in Tom Belcher's store. By  Derieux --
+  Porcelain cups. By Cabell -- The high cost of conscience. By Ravenel -- The kitchen
+  gods. By Alsop -- April 25th, as usual. By Ferber.
+title: O. Henry Memorial Award Prize Stories of 1919
+url: http://www.gutenberg.org/ebooks/12094
